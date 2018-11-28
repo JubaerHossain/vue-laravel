@@ -1,3 +1,8 @@
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -6,6 +11,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+
+
+
+
+<h2>Vue Simple Project</h2>
+
+<p>clone  this: git remote add origin https://github.com/JubaerHossain/vue-laravel.git<p>
+    <ol>then <strong>composer install</strong></ol>
+    <ol>then <strong>npm install</strong></ol>
+    <ol>set up <strong>.env</strong> file from <strong>example.env</strong> file</ol>
+    <ol>and then <strong>php artisan serve</strong></ol>
+    <ol>it's run</ol>
+
+
+
 
 ## About Laravel
 
